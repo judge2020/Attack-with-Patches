@@ -8,11 +8,14 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		PluginsFolder|Any CPU = PluginsFolder|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{FF8FEBD2-27C4-4A13-8117-E46E7C5F9C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FF8FEBD2-27C4-4A13-8117-E46E7C5F9C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8FEBD2-27C4-4A13-8117-E46E7C5F9C64}.PluginsFolder|Any CPU.ActiveCfg = copyToPlugins|Any CPU
+		{FF8FEBD2-27C4-4A13-8117-E46E7C5F9C64}.PluginsFolder|Any CPU.Build.0 = copyToPlugins|Any CPU
 		{FF8FEBD2-27C4-4A13-8117-E46E7C5F9C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF8FEBD2-27C4-4A13-8117-E46E7C5F9C64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
